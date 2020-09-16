@@ -29,8 +29,8 @@ Now, in order to predict, whether the customer would be interested in Vehicle in
 <br>**Response:**	1 :  Customer is interested, 0 : Customer is not interested
 
 
-#### test.csv
-<br>**Variable	Definition**
+### test.csv
+**Variable	Definition**<br>
 <br>**id:**	Unique ID for the customer
 <br>**Gender:**	Gender of the customer
 <br>**Age:** Age of the customer
